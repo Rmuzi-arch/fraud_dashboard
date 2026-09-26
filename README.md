@@ -2,6 +2,10 @@
 
 Hacker-themed Streamlit dashboard for exploring credit card fraud data and finding the features that predict fraud.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://frauddashboard-rfkpx5rgjbznw3vzvomxq8.streamlit.app/)
+
+**Live dashboard:** https://frauddashboard-rfkpx5rgjbznw3vzvomxq8.streamlit.app/
+
 ## Screenshots
 
 ### Overview
